@@ -44,7 +44,7 @@ This is a simple Snake game implemented in C++. The game is played in a terminal
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/snake-game-cpp.git
+   git clone https://github.com/DivyModi17/Snake_Game
    ```
 2. Navigate to the project directory:
    ```bash
