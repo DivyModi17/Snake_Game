@@ -16,7 +16,7 @@ This is a simple Snake game implemented in C++. The game is played in a terminal
    - [Main Function](#main-function)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ---
 
