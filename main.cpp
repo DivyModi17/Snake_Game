@@ -169,7 +169,7 @@ void Logic()
         fruitY = rand() % (height - 2) + 1;
         obstacleX = rand() % (width - 2) + 1;
         obstacleY = rand() % (height - 2) + 1;
-        nTail++; // Increase snake length
+        nTail++;
     }
 }
 
