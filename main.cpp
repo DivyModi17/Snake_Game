@@ -9,7 +9,7 @@ bool GameOver;
 const int width = 50;
 const int height = 20;
 int x, y, fruitX, fruitY, obstacleX, obstacleY, score, highestScore;
-int tailX[100], tailY[100];
+int tailX[1000], tailY[1000];
 int nTail;
 char dir;
 
